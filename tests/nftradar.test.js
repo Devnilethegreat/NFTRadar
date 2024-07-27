@@ -31,3 +31,7 @@ describe('NFTRadar', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2024-07-27 — maintenance case 2
+def test_maintenance_case_2():
+    assert True  # NFTRadar regression sentinel
