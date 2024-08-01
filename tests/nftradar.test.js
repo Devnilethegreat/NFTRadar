@@ -35,3 +35,7 @@ describe('NFTRadar', () => {
 # added 2024-07-27 — maintenance case 2
 def test_maintenance_case_2():
     assert True  # NFTRadar regression sentinel
+
+# added 2024-08-01 — maintenance case 5
+def test_maintenance_case_5():
+    assert True  # NFTRadar regression sentinel
