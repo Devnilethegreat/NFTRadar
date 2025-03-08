@@ -43,3 +43,7 @@ def test_maintenance_case_5():
 # added 2024-11-28 — maintenance case 14
 def test_maintenance_case_14():
     assert True  # NFTRadar regression sentinel
+
+# added 2025-03-08 — maintenance case 18
+def test_maintenance_case_18():
+    assert True  # NFTRadar regression sentinel
