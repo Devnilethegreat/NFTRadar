@@ -65,7 +65,3 @@ if (require.main === module) {
 }
 
 module.exports = { NFTRadar, NFTRadarCore };
-
-# revision 9 (2024-09-12): review pass
-
-# revision 13 (2024-11-27): review pass
